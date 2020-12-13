@@ -1,4 +1,4 @@
 ![](Virtualbox.svg)
-![](VScode.svg)
+![](VScode.png)
 ![](GIMP.svg)
 

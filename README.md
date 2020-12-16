@@ -5,4 +5,4 @@
 ![](TeamSpeak3.svg)
 ![](qBittorrent.svg)
 ![](Celluloid.svg)
-
+![](Discord.svg)

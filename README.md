@@ -4,4 +4,5 @@
 ![](PopcornTime.png)
 ![](TeamSpeak3.svg)
 ![](qBittorrent.svg)
+![](Celluloid.svg)
 
